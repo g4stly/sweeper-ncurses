@@ -1,0 +1,20 @@
+* use the vim keys to move (hjkl)
+	k = up
+	l = right 
+	j = down
+	h = left
+
+* use the d and f keys to dig up and flag spaces respectively
+
+* the m key can be used to flag spaces that are still hidden
+	when using the m key on a space that has been uncovered,
+	in the event that that space is a number, and it has the same
+	number of flags surrounding it, it will auto uncover the remaining
+	hidden spaces. 
+	
+	with this, it is possible to play the entire game with 
+	the movement keys and the m key beyond the initial dig up.
+
+
+
+
